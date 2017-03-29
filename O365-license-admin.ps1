@@ -1,6 +1,5 @@
 ###############################################
 #Administer Licensing in Office 365           #
-#Author: Matthew Park                         #
 #Version: 1.4                                 #
 #Latest update: 29MAR2017                     #
 #                                             #
